@@ -7,6 +7,10 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 # DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
+# EMBY
+DOMAIN-SUFFIX,hxd.as174.de
+DOMAIN-SUFFIX,cf.bili.rip
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
